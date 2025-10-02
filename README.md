@@ -1,5 +1,4 @@
  views:a  view is a virtual table based on the result set of an sql statement 
-
  
  syntax:
 
@@ -11,8 +10,7 @@
 
  drop view:
 
- 
- syntax:
+  syntax:
 
  
  drop view view_name;
